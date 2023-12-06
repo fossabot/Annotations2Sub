@@ -9,6 +9,7 @@ Download and convert Youtube Annotation
 [![codecov](https://codecov.io/gh/USED255/Annotations2Sub/branch/master/graph/badge.svg?token=SSNQNEAXMP)](https://codecov.io/gh/USED255/Annotations2Sub)
 [![Version](https://img.shields.io/pypi/v/Annotations2Sub)](https://pypi.org/project/Annotations2Sub)
 [![Python version](https://img.shields.io/pypi/pyversions/Annotations2Sub)](https://pypi.org/project/Annotations2Sub)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FUSED255%2FAnnotations2Sub.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FUSED255%2FAnnotations2Sub?ref=badge_shield)
 
 ---
 
@@ -82,3 +83,7 @@ Generate video
 ```bash
 Annotations2Sub -g 29-q7YnyUmY
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FUSED255%2FAnnotations2Sub.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FUSED255%2FAnnotations2Sub?ref=badge_large)
